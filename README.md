@@ -49,8 +49,8 @@
 
        * - This corrected the flow of the document, bringing the image into the html with the other images
 ```   
-   ### Below is a screenshot of the website
+   ### **ScreenShot**
    ***
 
-   ![Horiseon Social Solution](https://github.com/Bwaller1331/Homework-Week-1/blob/main/Develop/assets/images/HSS.png)
+   ![Horiseon Social Solution](https://github.com/Bwaller1331/Homework-Week-1/blob/main/Develop/assets/images/HSS.png "Horiseon Social Solutions")
 
