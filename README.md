@@ -49,3 +49,7 @@
 
        * - This corrected the flow of the document, bringing the image into the html with the other images
    
+   ### Below is a screenshot of the website
+   ***
+
+   [Horiseon Social Solutions]: Develop\assets\images\HSS.png "Horiseon Social Solutions"
