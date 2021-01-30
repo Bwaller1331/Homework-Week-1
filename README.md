@@ -48,7 +48,7 @@
     - Moved "digital-marketing-meeting.jpg" from the style sheet into the html and Removed unnecessary <img> tag
 
        * - This corrected the flow of the document, bringing the image into the html with the other images
-   
+```   
    ### Below is a screenshot of the website
    ***
 
