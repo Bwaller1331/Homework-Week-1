@@ -52,8 +52,6 @@
    ### Below is a screenshot of the website
    ***
 ```
-   ![Horiseon Social Solution][1]
-
-   [1]: (Develop\assets\images\HSS.png "Horiseon Social Solutions")
+   ![Horiseon Social Solution]: (Develop\assets\images\HSS.png?raw=true "Horiseon Social Solutions")
 
 ```
