@@ -51,7 +51,6 @@
 ```   
    ### Below is a screenshot of the website
    ***
-```
+
    ![Horiseon Social Solution]: (https://github.com/Bwaller1331/Homework-Week-1/blob/main/Develop/assets/images/HSS.png "Horiseon Social Solutions")
 
-```
