@@ -54,6 +54,8 @@
 ```
    ![Horiseon Social Solution][1]
 
-   [1]: Develop\assets\images\HSS.png "Horiseon Social Solutions
+   [1]: 
+   Develop\assets\images\HSS.png 
+   "Horiseon Social Solutions
 
 ```
