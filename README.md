@@ -52,4 +52,4 @@
    ### Below is a screenshot of the website
    ***
 
-   [Horiseon Social Solutions]: Develop\assets\images\HSS.png "Horiseon Social Solutions"
+   ![Horiseon Social Solutions] Develop\assets\images\HSS.png "Horiseon Social Solutions"
